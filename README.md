@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T14:16:43+05:30
-Updated: 2024-07-31T06:56:52+05:30
+Updated: 2024-07-31T06:57:22+05:30
 Maintainer: Ibrar Ansari
 ---
 # Markdown
@@ -61,9 +61,9 @@ And the next line.
 ```
 
 ### Links
-Link with text: [link-text](https://www.google.com)
-[Dillinger online Markdown editor](https://dillinger.io/).
-[Markdownlivepreview online Markdown editor](https://markdownlivepreview.com/).
+- Link with text: [link-text](https://www.google.com)
+- [Dillinger online Markdown editor](https://dillinger.io/).
+- [Markdownlivepreview online Markdown editor](https://markdownlivepreview.com/).
 
 ### Code Blocks
 
