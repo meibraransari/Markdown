@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T14:16:43+05:30
-Updated: 2024-08-05T13:30:14+05:30
+Updated: 2024-08-05T13:37:31+05:30
 Maintainer: Ibrar Ansari
 ---
 # Markdown
@@ -11,14 +11,12 @@ Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you 
 ## Cheat-Sheet
 
 ### Headings
-```markdown
 # Heading 1
 ## Heading 2
 ### Heading 3
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
-```
 
 Here is a heading: `# Heading`, **don't do this:** `#Heading` 
 
@@ -28,7 +26,7 @@ This text *is italic*.
 This text ~~is struck out~~.
 
 ### Emphasis
-```markdown
+
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
@@ -36,29 +34,27 @@ Strong emphasis, aka bold, with **asterisks** or __underscores__.
 Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
-```
+
 
 ### Line Breaks
-```markdown
 First line with two spaces after.  
 And the next line.
-```
+
 
 ### Lists
 
 #### Ordered Lists
-```markdown
+
 1. First item
 2. Second item
 3. Third item
-```
+
 
 #### Unordered Lists
-```markdown
+
 - First item
 - Second item
 - Third item
-```
 
 ### Links
 - Link with text: [link-text](https://www.google.com)
@@ -68,9 +64,9 @@ And the next line.
 ### Code Blocks
 
 #### Inline Code Block
-```markdown
+
 Inline `code` has `back-ticks around` it.
-```
+
 
 #### Blocks of Code
 <pre>
@@ -107,7 +103,7 @@ To create a task list start line with square brackets with an empty space.
 Ex: [ <space> ] and add text for task.
 To check the task replace the space between the bracket with "x".
 
-``` markdown
+``` 
 [x] Write the post
 [ ] Update the website
 [ ] Contact the user
