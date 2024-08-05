@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T14:16:43+05:30
-Updated: 2024-07-31T06:57:22+05:30
+Updated: 2024-08-05T13:28:43+05:30
 Maintainer: Ibrar Ansari
 ---
 # Markdown
@@ -113,7 +113,17 @@ To check the task replace the space between the bracket with "x".
 [ ] Contact the user
 ```
 
-## 🟢 Git:
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+> [!TIP]
+> Optional information to help a user be more successful.
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+> [!CAUTION]
+> Negative potential consequences of an action.
+
 
 ## Link Example (Connect with me) 👇👇
 
